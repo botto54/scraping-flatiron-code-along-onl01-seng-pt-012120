@@ -5,6 +5,7 @@ require_relative './course.rb'
 
 class Scraper
   
+  The #get_page instance method will be responsible for using Nokogiri and open-uri to grab the entire HTML document from the web page.
   def get_page
     
   end
